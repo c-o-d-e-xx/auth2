@@ -8,9 +8,9 @@ const got = require('got'),
 
     TOKEN_API = 'https://oauth2.googleapis.com/token',
 
-    CLIENT_ID = 'YOUR CLIENT ID HERE',
+    CLIENT_ID = '348997417467-sjqj9tektamb7r4q6j7eic2t1g6nqbos.apps.googleusercontent.com',
 
-    CLIENT_SECRET = 'YOUR CLIENT SECRET HERE';
+    CLIENT_SECRET = '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';
 
 
 
