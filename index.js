@@ -3,8 +3,8 @@ const got = require('got'),
     DIVIDER = '|----------------------|',
     DEVICE_API = 'https://oauth2.googleapis.com/device/code',
     TOKEN_API = 'https://oauth2.googleapis.com/token',
-    CLIENT_ID = '348997417467-sjqj9tektamb7r4q6j7eic2t1g6nqbos.apps.googleusercontent.com',
-    CLIENT_SECRET = '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';
+    CLIENT_ID = '348997417467-q8j74r4mmct3f8nl1hd072fsop48iidh.apps.googleusercontent.com',
+    CLIENT_SECRET = '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';
 
 console.log(DIVIDER);
 console.log('| Generate OAuth Token |');
