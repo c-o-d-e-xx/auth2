@@ -4,11 +4,11 @@ const got = require('got'),
 
     TOKEN_API = 'https://oauth2.googleapis.com/token',
 
-    CLIENT_ID = process.argv[2] || 'YOUR CLIENT ID HERE',
+    CLIENT_ID = process.argv[2] || '348997417467-q8j74r4mmct3f8nl1hd072fsop48iidh.apps.googleusercontent.com',
 
-    CLIENT_SECRET = process.argv[3] || 'YOUR CLIENT SECRET HERE',
+    CLIENT_SECRET = process.argv[3] || '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',
 
-    REFRESH_TOKEN = process.argv[4] || 'YOUR REFRESH TOKEN HERE';
+    REFRESH_TOKEN = process.argv[4] || '1//0ginDL96ioAKHCgYIARAAGBASNgF-L9IrBTN-pA8XJHutBXAHaMNXhB4EowFyVA-gHR3k33rFCwpKSvr6ix27hkNRKyfmOILosQ';
 
 
 
